@@ -1,0 +1,110 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: Verdana;
+}
+Body
+{
+	background-color: white;
+}
+.rec
+{
+	
+	height: 100vh;
+	width: 60vh;
+	background-color: #E6DACE;
+}
+.rec2
+{
+	height: 550px;
+	width: 380px;
+	padding: 10px;
+	margin-top: -800px;
+	margin-left: -700px;
+	background-color: #F4ECE6;
+	box-shadow: 0 0 20px rgba(0,0,0,.5);
+}
+img
+{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	margin-top: 40px;
+}
+h1
+{
+	margin-top: 40px;
+	font-size: 30px;
+}
+hr
+{
+	margin-top: 40px;
+}
+P
+{
+	margin-top: 40px;
+	font-size: 20px;
+	font-family: helvetica;	
+	opacity: .7;
+}
+.rec3
+{
+	height: 50px;
+	width: 400px;
+	background-color: white;
+	margin-top: 46px;
+	margin-left: -10px;
+}
+H2
+{
+	margin-top: -550px;
+	margin-left: 730px;
+	font-size: 90px;
+}
+H3
+{
+	margin-top: 20px;
+	margin-left: 740px;
+	font-size: 25px;
+	font-family: Verdana;
+	opacity: 1;
+	color: #0150FF;
+}
+.para
+{
+	margin-left: 740px;
+	margin-top: 50px;
+}
+.write
+{
+	margin-left: 740px;
+	font-family: Verdana;
+	color: black;
+	opacity: 1;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.email
+{
+	margin-left: 740px;
+	font-size: 15px;
+	margin-top: 40px;
+}
+.free
+{
+	font-size: 5px;
+	margin-left: 740px;
+	margin-top: 10px;
+}
+Ul li
+{
+	list-style: none;
+	display: inline-block;
+}
+.media
+{
+	margin-left: 405px;
+	margin-top: -42px;
+	opacity: .7;
+}
